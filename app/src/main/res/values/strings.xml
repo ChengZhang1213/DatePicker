@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="show_time_picker">ShowTimePicker</string>
+</resources>
